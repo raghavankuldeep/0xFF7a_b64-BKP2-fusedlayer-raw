@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codematters.in/sitemap-new.xml
