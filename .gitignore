@@ -1,0 +1,11 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Backup/temp files
+*.bak
+*.tmp
+*~
+
+# VS Code
+.vscode/
